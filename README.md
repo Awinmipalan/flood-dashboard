@@ -54,17 +54,10 @@ It consolidates incident data from official and open sources—such as **NEMA**,
 
 ## 📌 Recommendations
 ![Recommendations](https://github.com/Awinmipalan/flood-dashboard/blob/main/Screenshot_2025_07_16-4.png)
-## 📊 KPI Overview
-![KPI Dashboard](https://github.com/Awinmipalan/flood-dashboard/blob/main/Screenshot_2025_07_16-1.png)
-
-## 🏠 Home Page
-![Home Page](https://github.com/Awinmipalan/flood-dashboard/blob/main/Screenshot_2025_07_16-2.png)
-
-## 🗺️ Geo Spatial Map
-![Geo Page](https://github.com/Awinmipalan/flood-dashboard/blob/main/Screenshot_2025_07_16-3.png)
-
-## 📌 Recommendations
-![Recommendations](https://github.com/Awinmipalan/flood-dashboard/blob/main/Screenshot_2025_07_16-4.png)
 
 ## 📁 Folder Structure
+
+## 📁 Repo Structure
+# web link to by dashboard projects
+https://www.novypro.com/manage_projects/awindanjuma?Show=Published%20Projects
 
